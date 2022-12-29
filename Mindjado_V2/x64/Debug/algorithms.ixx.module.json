@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\walter\\desktop\\c++_projects\\mindjado_v2\\mindjado_v2\\algorithms.ixx",
+        "ProvidedModule": "algorithms",
+        "ImportedModules": [
+            "types"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

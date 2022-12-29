@@ -1,0 +1,9 @@
+﻿  Scanning sources for module dependencies...
+  algorithms.ixx
+  Compiling...
+  algorithms.ixx
+C:\Users\Walter\Desktop\C++_Projects\Mindjado_V2\Mindjado_V2\algorithms.ixx(7,25): warning C5201: a module declaration can appear only at the start of a translation unit unless a global module fragment is used
+  guesser.ixx
+C:\Users\Walter\Desktop\C++_Projects\Mindjado_V2\Mindjado_V2\guesser.ixx(9,22): warning C5201: a module declaration can appear only at the start of a translation unit unless a global module fragment is used
+  main.ixx
+  Mindjado_V2.vcxproj -> C:\Users\Walter\Desktop\C++_Projects\Mindjado_V2\x64\Debug\Mindjado_V2.exe
